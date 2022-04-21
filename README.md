@@ -1,3 +1,2 @@
 # Udemy-R-Machine-Learning-Projects
-Did several Udemy Machine Learning projects with R. Some involved linear regression, logistic regression, k nearest neighbors, etc. The linear regression project involves
-exploring the bike sharing data from Kaggle and doing the linear regression on these datas. 
+Did several Udemy Machine Learning projects with R. Some involved linear regression, logistic regression, k nearest neighbors, etc. The linear regression project involves exploring the bike sharing data from Kaggle and doing the linear regression on these datas. The logistic regression project involves predicting if people belong in a certain class by salary, either making less or equal to 50K or greater than 50k per year.   
